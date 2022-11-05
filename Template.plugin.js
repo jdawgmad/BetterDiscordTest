@@ -1,8 +1,8 @@
 /**
- * @name Example
- * @version 0.0.1
- * @description Example Description
- * @author Example
+ * @name test
+ * @version ersion Pre Alpha
+ * @description Test
+ * @author jdawg
  *  
  */
 
